@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+.Container{
+    margin: 140px;
+    
+}
+
+h1  {
+    color: darkviolet;
+    font-family: 'Cascadia Code';
+}
+
+p {
+    color: red;
+    text-align: justify;
+    font-family: 'Consolas';
+}
+
+strong{
+    color: blue;
+    font-family: 'Monaco';
+}
+
+body{
+    background-color: whitesmoke ;
+}
+
+image{
+    align-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
