@@ -1,1 +1,10 @@
+#Excluding these files because they are Only used for testing Purpose
+
 *.exe
+Main.cpp
+Main.java
+Main.class
+Main.py
+Main.js
+
+
